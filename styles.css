@@ -1,15 +1,21 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .container {
     background-color: rgb(235,235,235);
     width: 80%;
     height: 24px;
     border-radius: 15px;
-    margin: 20px;
+    margin: 10px;
 }
       
 .bar {
     color: rgb(120,120,120);
-    /* text-shadow: -1px -1px rgb(120,120,120); */
     font-weight: bolder;
     padding: 2px;
     text-align: right;
