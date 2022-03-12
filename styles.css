@@ -1,0 +1,43 @@
+
+.container {
+    background-color: rgb(235,235,235);
+    width: 80%;
+    border-radius: 15px;
+    margin: 20px;
+}
+      
+.bar {
+    color: black;
+    font-weight: bold;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 50%;
+}
+
+.zero {
+    background-color: rgb(193,229,133);
+}
+
+.first {
+    background-color: rgb(255,163,153);
+}
+
+.second {
+    background-color: white;
+}
+
+.third {
+    background-color: rgb(118,192,232);
+}
+
+.fourth {
+    background-color: rgb(254,209,99);
+}
+
+button {
+    padding: 5px;
+}
+
+      
