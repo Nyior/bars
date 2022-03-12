@@ -27,13 +27,13 @@ body{
 
 .zero {
     background-image:
-	   repeating-linear-gradient(-45deg, rgb(193,229,133, 0.7), rgb(148, 185, 88, 0.7) 0.15px);
+	   repeating-linear-gradient(-45deg, rgb(193,229,133, 0.8), rgb(148, 185, 88, 0.8) 0.15px);
 
 }
 
 .first {
     background-image:
-	   repeating-linear-gradient(-45deg, rgb(255,163,153, 0.7), rgb(243, 121, 107, 0.7) 0.15px);
+	   repeating-linear-gradient(-45deg, rgb(255,163,153, 0.8), rgb(243, 121, 107, 0.8) 0.15px);
 }
 
 .second {
@@ -42,12 +42,12 @@ body{
 
 .third {
     background-image:
-	   repeating-linear-gradient(-45deg, rgb(118,192,232, 0.7), rgb(54, 163, 223, 0.7) 0.15px);
+	   repeating-linear-gradient(-45deg, rgb(118,192,232, 0.8), rgb(54, 163, 223, 0.8) 0.15px);
 }
 
 .fourth {
     background-image:
-	   repeating-linear-gradient(-45deg, rgb(254,209,99, 0.7), rgb(238, 188, 62, 0.7) 0.15px);
+	   repeating-linear-gradient(-45deg, rgb(254,209,99, 0.8), rgb(238, 188, 62, 0.8) 0.15px);
 }
 
 button {
