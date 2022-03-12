@@ -1,8 +1,8 @@
 const complete = () => {
     const allBars = document.querySelectorAll('.bar');
-    allBars.forEach(anchor => {
-        anchor.setAttribute('style', 'width: 100%') ;
-        anchor.innerHTML = '100%';
+    allBars.forEach(progressBar => {
+        progressBar.setAttribute('style', 'width: 100%') ;
+        progressBar.innerHTML = '100%';
     });
 }
 
